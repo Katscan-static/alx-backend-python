@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
     - This module returns a sum of mixed values of type int and float
 """

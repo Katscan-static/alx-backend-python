@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
     this module returns a tuple of a string and number (float or int)
 """

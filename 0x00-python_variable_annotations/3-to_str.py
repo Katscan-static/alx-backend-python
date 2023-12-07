@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
     - This module converts a float number (n) into a string 
     - Returns a string type value of n

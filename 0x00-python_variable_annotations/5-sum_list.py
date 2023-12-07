@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
     - This module adds float numbers in a list and returns the value
 """
